@@ -9,6 +9,13 @@
 ![2-2](https://github.com/CATSOY/example-food-delivery/assets/96510734/37105d48-195d-4864-8afa-e71892e1e9e8)
 
 
+3. CQRS
+![3](https://github.com/CATSOY/example-food-delivery/assets/96510734/162f5a71-c25a-4c59-bd2b-9afde9d5c85c)
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
