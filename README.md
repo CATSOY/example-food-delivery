@@ -18,7 +18,10 @@
 
 ![4-1](https://github.com/CATSOY/example-food-delivery/assets/96510734/a290f025-6a00-4f93-985e-97ed256b59ba)
 
-![4-2](https://github.com/CATSOY/example-food-delivery/assets/96510734/39302e7b-3f55-47fb-ba8d-3704d0b94457)
+![4-2](https://github.com/CATSOY/example-food-delivery/assets/96510734/39302e7b-3f55-47fb-ba8d-3704d0b94457) 
+
+
+![image](https://github.com/CATSOY/example-food-delivery/assets/96510734/d1e905b1-a411-4c4a-91cd-09ec7c464771)
 
 
 
