@@ -1,6 +1,18 @@
 1. EventStorming Model : Design Level
 ![image](https://github.com/CATSOY/example-food-delivery/assets/96510734/b75aacc2-4df6-482d-9e4c-14c5907190c8)
 
+2. Saga (Pub / Sub)
+![2-1](https://github.com/CATSOY/example-food-delivery/assets/96510734/b1529074-5916-49a6-9454-8cfa5c173aa7)
+![2-2](https://github.com/CATSOY/example-food-delivery/assets/96510734/37105d48-195d-4864-8afa-e71892e1e9e8)
+
+3. CQRS
+![3](https://github.com/CATSOY/example-food-delivery/assets/96510734/162f5a71-c25a-4c59-bd2b-9afde9d5c85c)
+
+4. Compensation / Correlation
+![4-1](https://github.com/CATSOY/example-food-delivery/assets/96510734/a290f025-6a00-4f93-985e-97ed256b59ba)
+![4-2](https://github.com/CATSOY/example-food-delivery/assets/96510734/39302e7b-3f55-47fb-ba8d-3704d0b94457)
+
+
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 예제 - 음식배달
