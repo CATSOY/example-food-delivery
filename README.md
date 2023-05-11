@@ -1,3 +1,6 @@
+1. EventStorming Model : Design Level
+![image](https://github.com/CATSOY/example-food-delivery/assets/96510734/b75aacc2-4df6-482d-9e4c-14c5907190c8)
+
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 예제 - 음식배달
