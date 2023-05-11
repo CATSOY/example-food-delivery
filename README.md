@@ -10,8 +10,8 @@
 
 
 3. CQRS
-![3](https://github.com/CATSOY/example-food-delivery/assets/96510734/162f5a71-c25a-4c59-bd2b-9afde9d5c85c)
 
+![3](https://github.com/CATSOY/example-food-delivery/assets/96510734/162f5a71-c25a-4c59-bd2b-9afde9d5c85c)
 
 
 
