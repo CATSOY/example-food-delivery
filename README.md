@@ -14,6 +14,12 @@
 ![3](https://github.com/CATSOY/example-food-delivery/assets/96510734/162f5a71-c25a-4c59-bd2b-9afde9d5c85c)
 
 
+4. Compensation / Correlation
+
+![4-1](https://github.com/CATSOY/example-food-delivery/assets/96510734/a290f025-6a00-4f93-985e-97ed256b59ba)
+
+![4-2](https://github.com/CATSOY/example-food-delivery/assets/96510734/39302e7b-3f55-47fb-ba8d-3704d0b94457)
+
 
 
 
